@@ -1,0 +1,5 @@
+C:\Steam\steamapps\common\RimWorld\Mods\BLIDALP\Assemblies\BloodLossIsntDeadly-AnimalLogic Patch.dll
+C:\Steam\steamapps\common\RimWorld\Mods\BLIDALP\Source\BloodLossIsntDeadly-AnimalLogic Patch\obj\Debug\BloodLossIsntDeadly-AnimalLogic Patch.csproj.AssemblyReference.cache
+C:\Steam\steamapps\common\RimWorld\Mods\BLIDALP\Source\BloodLossIsntDeadly-AnimalLogic Patch\obj\Debug\BloodLossIsntDeadly-AnimalLogic Patch.csproj.CoreCompileInputs.cache
+C:\Steam\steamapps\common\RimWorld\Mods\BLIDALP\Source\BloodLossIsntDeadly-AnimalLogic Patch\obj\Debug\BloodLossIsntDeadly-AnimalLogic Patch.dll
+C:\Steam\steamapps\common\RimWorld\Mods\BLIDALP\Source\BloodLossIsntDeadly-AnimalLogic Patch\obj\Debug\BloodLossIsntDeadly-AnimalLogic Patch.csproj.CopyComplete

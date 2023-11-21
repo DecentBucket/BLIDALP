@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vEB4/QIEdlGPz8E4doVdqjcXBb0wt4HKS6ogKsEnDxxSZAp6t2Gm+5pS/LXW1SeRnRMkB+SWridDZSNz/lNXA==",
+  "success": true,
+  "projectFilePath": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\BloodLossIsntDeadly-AnimalLogic Patch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bucket\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3704\\krafs.rimworld.ref.1.4.3704.nupkg.sha512",
+    "C:\\Users\\Bucket\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
