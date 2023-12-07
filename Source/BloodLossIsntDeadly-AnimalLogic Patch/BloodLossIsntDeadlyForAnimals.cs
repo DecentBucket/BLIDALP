@@ -27,7 +27,7 @@ namespace db_BloodLossIsntDeadly_AnimalsLogic_Patch
                     for (int i = 0; i < p2.health.hediffSet.hediffs.Count; i++)
                     {
                         Hediff diff = p2.health.hediffSet.hediffs[i];
-                        if(diff.CurStage != null && diff.CurStage.lifeThreatening && !diff.FullyImmune() && (diff.def.defName != HediffDefOf.BloodLoss.defName || p2.health.hediffSet.hediffs.Any((Hediff y) => y.Bleeding) && (diff.def.defName != HediffDefOf.Malnutrition.defName || p2.needs.food.Starving)))
+                        if(diff.CurStage != null && diff.CurStage.lifeThreatening && !diff.FullyImmune() && (diff.def.defName != HediffDefOf.BloodLoss.defName || p2.health.hediffSet.hediffs.Any((Hediff y) => y.Bleeding)))
                         {
                             yield return p2;
                             break;
