@@ -23,7 +23,7 @@
 	</li>
 	</modDependencies>
 	<forceLoadAfter>
-	<li>brrainz.harmony</li>
-	<li>Oblitus.AnimalsLogic</li>
+		<li>brrainz.harmony</li>
+		<li>Oblitus.AnimalsLogic</li>
 	</forceLoadAfter>
 </ModMetaData>
