@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\BloodLossIsntDeadly-AnimalLogic Patch.csproj": {}
+    "C:\\Users\\Bucket\\Documents\\modding\\rimworld\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\BloodLossIsntDeadly-AnimalLogic Patch.csproj": {}
   },
   "projects": {
-    "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\BloodLossIsntDeadly-AnimalLogic Patch.csproj": {
+    "C:\\Users\\Bucket\\Documents\\modding\\rimworld\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\BloodLossIsntDeadly-AnimalLogic Patch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\BloodLossIsntDeadly-AnimalLogic Patch.csproj",
+        "projectUniqueName": "C:\\Users\\Bucket\\Documents\\modding\\rimworld\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\BloodLossIsntDeadly-AnimalLogic Patch.csproj",
         "projectName": "BloodLossIsntDeadly-AnimalLogic Patch",
-        "projectPath": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\BloodLossIsntDeadly-AnimalLogic Patch.csproj",
+        "projectPath": "C:\\Users\\Bucket\\Documents\\modding\\rimworld\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\BloodLossIsntDeadly-AnimalLogic Patch.csproj",
         "packagesPath": "C:\\Users\\Bucket\\.nuget\\packages\\",
-        "outputPath": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\obj\\",
+        "outputPath": "C:\\Users\\Bucket\\Documents\\modding\\rimworld\\BLIDALP\\Source\\BloodLossIsntDeadly-AnimalLogic Patch\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -40,11 +40,11 @@
           "dependencies": {
             "Krafs.Rimworld.Ref": {
               "target": "Package",
-              "version": "[1.4.3704, )"
+              "version": "[1.5.4052-beta, )"
             },
             "Lib.Harmony": {
               "target": "Package",
-              "version": "[2.2.2, )"
+              "version": "[2.3.3, )"
             }
           }
         }

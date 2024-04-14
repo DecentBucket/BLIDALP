@@ -18,7 +18,7 @@
     <DebugSymbols>false</DebugSymbols>
     <DebugType>none</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\Assemblies\</OutputPath>
+    <OutputPath>..\..\1.5\Assemblies\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AnimalsLogic">
-      <HintPath>..\..\..\..\..\..\..\..\Users\Bucket\Documents\modding\rimworld\references\AnimalsLogic.dll</HintPath>
+      <HintPath>..\..\..\references\AnimalsLogic\1.5\AnimalsLogic.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -50,10 +50,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Krafs.Rimworld.Ref">
-      <Version>1.4.3704</Version>
+      <Version>1.5.4052-beta</Version>
     </PackageReference>
     <PackageReference Include="Lib.Harmony">
-      <Version>2.2.2</Version>
+      <Version>2.3.3</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
